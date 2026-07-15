@@ -4,7 +4,7 @@ Dear PMIP community,
 
 It has been a few months since our last update. Last week, the abrupt-127k protocol paper was published in GMD. The eocene protocol was also published, and the Miocene protocol has been submitted and boundary conditions released. The wider CMIP7 effort is progressing, but there is not yet any data available from it on the ESGF. 
 
-PlioMIP is having a meeting in Sept to work on some community papers. The interglacials working group discussing its analysis plan now. Sign up here to be involved. We have started on a synthesis and outlook paper. it's oultine is here and tell me if you can help with it. 
+PlioMIP is having a meeting in Sept to work on some community papers. The interglacials working group discussing its analysis plan now. Sign up here to be involved. We have started on a synthesis and outlook paper. it's oultine is here and tell me if you can help with it. LGM protocol under discussion - contact Masa for involvement. 
 
 The IPCC working group 1 has finished its 1st order draft. It would be great to have many PMIP folks review this draft and mention any overlooked paleo-papers. To be eligible for inclusion in the final report papers must be submitted by March! 
 
