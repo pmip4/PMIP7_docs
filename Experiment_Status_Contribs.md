@@ -29,14 +29,15 @@
 |---|---|---|---|---|
 | 1 | Christian Stepanek | Christian.Stepanek@awi.de | AWI | AWI-CM3 |
 | 2 | Christian Stepanek | Christian.Stepanek@awi.de | AWI | AWI-ESM2 |
-| 3 | Sandeep Narayanasetti | sandeep.cat@tropmet.re... | IITM | CCCR-IITM |
-| 4 | Masatazu Yoshimori | masakazu@aoriy-tokyo.g... | MIROC | MIROC7 & MIROC ESM |
+| 3 | Sandeep Narayanasetti | sandeep.cat@tropmet.res.in | IITM | CCCR-IITM |
+| 4 | Masatazu Yoshimori | masakazu@aori.u-tokyo.ac.jp | MIROC | MIROC7 & MIROC ESM |
 | 5 | Qiong Zhang | Qiong.zhang@natgeo.su.se | EC-Earth-Consortium | EC-Earth4 |
 | 6 | John Dunne & Lore Sentman | John.Dunne@noaa.gov & Lori.Sentman@noaa.gov | NOAA-GFDL | GFDL-ESM4 |
 | 7 | Kohe Yoshida & Yasuto Watanabe| kyoshida@mri-jma.go.jp  &  ywatanabe@mri-jma.go.jp | MRI | MRI-ESM3 |
 | 8 | Chris Jones | Chris.d.jones@bristol.ac.uk | Bristol, UK | HadCM3-Bris | 
 | 9 | Evgeny Volodin | volodinev@gmail.com | INM | INMCM6 |
 | 10 | Matt Pollock | matt.pollock.24@ucl.ac.uk | UCL | UKESM1.3 |
+| 11 | Shih-Yu Lee | shihyu@gate.sinica.edu.tw | | TaiESM | AS-RCEC |
 
 ## Interglacials
 
@@ -99,7 +100,7 @@ The table below is based on a spreadsheet provided by the PlioMIP3 coordinators.
 
 ## DeepMIP
 
-DeepMIP-Eocene is focused on the early Eocene climatic optimum (EECO). The protocol describing this experiment is currently under [open review at GMD](https://doi.org/10.5194/egusphere-2025-6135).They maintain a relatively up-to-date [website](https://www.deepmip.org/model-working-group/), from which the table below is taken.
+DeepMIP-Eocene is focused on the early Eocene climatic optimum (EECO). The protocol describing this experiment is [Lunt et al, 2026](https://gmd.copernicus.org/articles/19/6143/2026/).They maintain a relatively up-to-date [website](https://www.deepmip.org/model-working-group/), from which the table below is taken.
 
 | # | Model | Contact |
 |---|---|---|

@@ -1,17 +1,18 @@
-# 13 July 2026
+# 15 July 2026
 
 Dear PMIP community,
 
-It has been a few months since our last update. Last week, the abrupt-127k protocol paper was published in GMD. The eocene protocol was also published, and the Miocene protocol has been submitted and boundary conditions released. The wider CMIP7 effort is progressing, but there is not yet any data available from it on the ESGF. 
+It has been a few months since our last update. Last week saw several PMIP papers published in Geoscientific Model Developent: these provide the protocol for [abrupt-127k (our Assesment Fast Track experiment)](https://gmd.copernicus.org/articles/19/5881/2026/); the protocols for the [Eocene experiments (of which eocene-5x is be the highest priority)](https://gmd.copernicus.org/articles/19/6143/2026/); and the [data request for paleoclimate simulations](https://gmd.copernicus.org/articles/19/6043/2026/#section3). Additionally the Miocene protocol has been submitted and [boundary conditions released](https://zenodo.org/records/20646213). LGM protocol under is still development, and you should contact Masa (masa.kageyama@lsce.ipsl.fr) to be involved.
 
-PlioMIP is having a meeting in Sept to work on some community papers. The interglacials working group discussing its analysis plan now. Sign up here to be involved. We have started on a synthesis and outlook paper. it's oultine is here and tell me if you can help with it. LGM protocol under discussion - contact Masa for involvement. 
+The IPCC WG1 has finished its [first order draft](https://apps.ipcc.ch/comments/ar7wg1/register.php?q=fod). It would be great to have many PMIP folks review this draft, and mention any overlooked paleo-papers. The wider CMIP7 effort is progressing, but there is not yet any data available from it on the ESGF. 
 
-The IPCC working group 1 has finished its 1st order draft. It would be great to have many PMIP folks review this draft and mention any overlooked paleo-papers. To be eligible for inclusion in the final report papers must be submitted by March! 
+Papers must be submitted by March to be eligible for inclusion in the IPCC WG1 AR7 report. To help with that there are some community efforts to coordinate analysis and hurry-along paper writing. PlioMIP is has an upcoming workshop on some community papers (15–17 Sept in Leeds, UK). The interglacials working group discussing its analysis plan now, and you can help shape it (by contacting Louise Sime). We have started also on a synthesis and outlook paper. Its outline is [here](https://github.com/pmip4/PMIP7-vision) and please email me (c.brierley@ucl.ac.uk) if you can help write it.  
+
 
 Actions:
-* Set-up and run PMIP simulations
-* Contact Christian or me join the abrupt-127k mailing list
-* Review the IPCC draft and point out any helpful insights from paleoclimate as review comments
+* Set-up and run PMIP simulations (ask if you need help to do this)
+* Contact Christian, Louise or me if you are performing an abrupt-127k simulation. Our [current list is here](https://github.com/pmip4/PMIP7_docs/blob/main/Experiment_Status_Contribs.md#abrupt-127k), but I'm sure that it is not complete. We want to include all contributors in the rapid-analysis effort. 
+* [Review the IPCC draft](https://apps.ipcc.ch/comments/ar7wg1/register.php?q=fod) and point out any helpful insights from paleoclimate as review comments
 
 # 29 Apr 2026
 

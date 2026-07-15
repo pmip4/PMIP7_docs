@@ -8,7 +8,7 @@ As an entry card for PMIP7, models must perform an experiement that allows model
 
 ## CMIP7 Fast Track
 - [abrupt-127k](https://wcrp-cmip.org/wp-content/uploads/2023/12/Revised-PMIP-proposal-for-CMIP-fast-track.pdf)
-  - 100 year-long simulation, which starts from the piControl and abruptly imposes observed values for the insolation distribution and greenhouse gases. It focuses on the impact of the strong insolation anomaly on sea ice (up to 70 Wm-2 in the Arctic). This run length is justified as the Arctic sea ice response can be reached within 30 years. This proposal mimics abrupt-4xCO2 and could be used for process-based comparison of past and future forcings.
+  - 100 year-long simulation, which starts from the piControl and abruptly imposes observed values for the insolation distribution and greenhouse gases. It focuses on the impact of the strong insolation anomaly on sea ice (up to 70 Wm-2 in the Arctic). This run length is justified as the Arctic sea ice response can be reached within 30 years. This protocol [(Sime et al, 2026)](https://gmd.copernicus.org/articles/19/5881/2026/) mimics abrupt-2xCO2 and can be used for process-based comparison of past and future forcings.
   - For groups for which 100 years is challenging even a 30-year simulation may be sufficient to test the sea ice response to the radiative forcing of 127 000 years ago.
 
 ## PMIP7 Tier 1 
@@ -23,8 +23,9 @@ As an entry card for PMIP7, models must perform an experiement that allows model
 - Late Pliocene
   - This experiment is described in [Haywood et al. 2024](https://www.sciencedirect.com/science/article/pii/S0921818123002904). It was previously called midPliocene-eoi400 in CMIP6. 
 - Miocene
+  - The experimental protocol is submitted. The boundary conditions are available on [Zenodo](https://zenodo.org/records/20646213).
 - Eocene
-  - The experimental protocol is currently under review as [Lunt et al. (2026)](https://egusphere.copernicus.org/preprints/2026/egusphere-2025-6135/). This is an early Eocene simulation with 5xCO2.
+  - The experimental protocol is published by [Lunt et al. (2026)](https://gmd.copernicus.org/articles/19/6143/2026/). This is an early Eocene simulation with 5xCO2.
 
 ## PMIP7 Tier 2 
 _The nature of the Tier 2 experiments are still under consideration, and will be primarily administered by the individual working groups. Some example experiments are_
