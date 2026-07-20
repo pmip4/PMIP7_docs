@@ -9,7 +9,7 @@
 | [midHolocene](#Interglacials) | ☐ | ☐ | ☐ | ☐ |
 | [lig127k](#Interglacials) | ✅ | ☐ | ☐ | ☐ |
 | lgm | ☐ | ☐ | ☐ | ☐ |
-| [deepmip-p2-stand-5xCO2](#deepmip) | ✅ | ☐ | ☐ | ☐ |
+| [eocene-5x](#deepmip) | ✅ | ☐ | ☐ | ☐ |
 | MioMIP2 | ✅ | ☐ | ☐ | ☐ |
 | HighResPMIP | ☐ | ☐ | ☐ | ☐ |
 | PMIP-carbon | ☐ | ☐ | ☐ | ☐ |
@@ -21,7 +21,7 @@
 
 ## abrupt-127k
 
-**Protocol**: The experimental protocol has been developed and approved by CMIP. Initial description of it can be found on the [Assessment Fast Track webpage](https://wcrp-cmip.org/cmip-phases/cmip7/fast-track/). The full protocol, alogn with suggested analyses, is navigiating its way through publication, and a [preprint can be seen here](https://doi.org/10.5194/egusphere-2025-3531).
+**Protocol**: The experimental protocol has been developed and approved by CMIP. Initial description of it can be found on the [Assessment Fast Track webpage](https://wcrp-cmip.org/cmip-phases/cmip7/fast-track/). The full protocol, along with suggested analyses, is published in GMD as [Sime et al. (2026)](https://gmd.copernicus.org/articles/19/5881/2026/).
 
 **Contributors**
 
@@ -100,7 +100,7 @@ The table below is based on a spreadsheet provided by the PlioMIP3 coordinators.
 
 ## DeepMIP
 
-DeepMIP-Eocene is focused on the early Eocene climatic optimum (EECO). The protocol describing this experiment is [Lunt et al, 2026](https://gmd.copernicus.org/articles/19/6143/2026/).They maintain a relatively up-to-date [website](https://www.deepmip.org/model-working-group/), from which the table below is taken.
+DeepMIP-Eocene is focused on the early Eocene climatic optimum (EECO), with its main simulation being eocene-5x. The protocol describing this experiment is [Lunt et al, 2026](https://gmd.copernicus.org/articles/19/6143/2026/).They maintain a relatively up-to-date [website](https://www.deepmip.org/model-working-group/), from which the table below is taken.
 
 | # | Model | Contact |
 |---|---|---|
