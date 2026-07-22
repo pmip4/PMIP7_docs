@@ -55,12 +55,12 @@ past2k,Qiong Zhang,Qiong.zhang@natgeo.su.se,Stockholm,EC-Earth4,
 past2k,Sebastian Wagner & Johann Jungclaus,,,ICON,
 past2k,Kei Yoshimura,,,MIROC6-iso,
 past2k,Liang Ning,,Nanjing,iCESM1.3,
-lig127k,Louise Sime & Xu Zhang,lsim@bas.ac.uk,BAS-UK,UKCM2
-lig127k,Louise Sime & Xu Zhang,lsim@bas.ac.uk,BAS-UK,HadGEM3-GC5-LL
+lig127k,Louise Sime & Xu Zhang,lsim@bas.ac.uk,BAS-UK,UKCM2,
+lig127k,Louise Sime & Xu Zhang,lsim@bas.ac.uk,BAS-UK,HadGEM3-GC5-LL,
 lig127k,Sophia Macarewich & Bette Otto-Bliesner,ottobli@ucar.edu,NCAR,CESM3,Model close to release in Jul 26
 lig127k,Christian Stepanek,Christian.Stepanek@awi.de,AWI,AWI-ESM3,
-midHolocene,Louise Sime & Xu Zhang,lsim@bas.ac.uk,BAS-UK,UKCM2
-midHolocene,Louise Sime & Xu Zhang,lsim@bas.ac.uk,BAS-UK,HadGEM3-GC5-LL
+midHolocene,Louise Sime & Xu Zhang,lsim@bas.ac.uk,BAS-UK,UKCM2,
+midHolocene,Louise Sime & Xu Zhang,lsim@bas.ac.uk,BAS-UK,HadGEM3-GC5-LL,
 midHolocene,Sophia Macarewich,macarew@ucar.edu,NCAR,CESM3,Model close to release in Jul 26
 midHolocene,Christian Stepanek,Christian.Stepanek@awi.de,AWI,AWI-ESM3,
 lgm,Jiang Zhu,jiang.zhu@ucar.edu,NCAR,CESM3,Model close to release in Jul 26
