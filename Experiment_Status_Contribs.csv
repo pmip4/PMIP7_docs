@@ -1,8 +1,8 @@
 Experiment,Name,Email,Institution,Model,Notes
-abrupt-127k,Christian Stepanek,Christian.Stepanek@awi.de,AWI,AWI-CM3,
+abrupt-127k,Christian Stepanek,Christian.Stepanek@awi.de,AWI,AWI-ESM3,
 abrupt-127k,Christian Stepanek,Christian.Stepanek@awi.de,AWI,AWI-ESM2,
 abrupt-127k,Sandeep Narayanasetti,sandeep.cat@tropmet.res.in,IITM,CCCR-IITM,
-abrupt-127k,Masatazu Yoshimori,masakazu@aori.u-tokyo.ac.jp,MIROC,MIROC7 & MIROC ESM,
+abrupt-127k,Masakazu Yoshimori & Takashi Obase,masakazu@aori.u-tokyo.ac.jp & tobase@jamstec.go.jp,MIROC,MIROC7, Aiming to start in Jul 26
 abrupt-127k,Qiong Zhang,Qiong.zhang@natgeo.su.se,Stockholm,EC-Earth4,
 abrupt-127k,John Dunne & Lore Sentman,John.Dunne@noaa.gov & Lori.Sentman@noaa.gov,NOAA-GFDL,GFDL-ESM4,
 abrupt-127k,Kohe Yoshida & Yasuto Watanabe,kyoshida@mri-jma.go.jp & ywatanabe@mri-jma.go.jp,MRI,MRI-ESM3,
@@ -11,7 +11,8 @@ abrupt-127k,Evgeny Volodin,volodinev@gmail.com,INM,INMCM6,
 abrupt-127k,Matt Pollock,matt.pollock.24@ucl.ac.uk,UCL,UKESM1.3,Not started
 abrupt-127k,Shih-Yu Lee,shihyu@gate.sinica.edu.tw,AS-RCEC,TaiESM,
 abrupt-127k,Kira Rehfeld,kira.rehfeld@uni-tuebingen.de,Tübingen,ICON,Simulation complete but hoping to re-run with final-final model
-abrupt-127k,Louise Sime & Xu Zhang,lsim@bas.ac.uk,BAS-UK,UKCM2
+abrupt-127k,Louise Sime & Xu Zhang,lsim@bas.ac.uk,BAS-UK,UKCM2,
+abrupt-127k,Sophia Macarewich & Bette Otto-Bliesner,ottobli@ucar.edu,NCAR,CESM3,Model close to release in Jul 26
 latePliocene,Julia Tindall,earjcti@leeds.ac.uk,Leeds,HadCM3,"Core runs completed Jan 2025; LP_pi_EAIS expected Apr/May 2025"
 latePliocene,Julia Tindall,earjcti@leeds.ac.uk,Leeds,HadGEM2,Uncertain whether runs will be completed
 latePliocene,Z. Zhang,,Bergen,NorESM1-F,
@@ -25,7 +26,7 @@ latePliocene,Ran Feng,ran.feng@uconn.edu,NCAR-UCONN,iCESM1.3,Target March/April 
 latePliocene,Ran Feng,ran.feng@uconn.edu,NCAR-UCONN,CESM2,Target March/April 2025
 latePliocene,Ran Feng,ran.feng@uconn.edu,NCAR-UCONN,CESM3,Will take most of 2025
 latePliocene,Christian Stepanek,Christian.Stepanek@awi.de,AWI,AWI-ESM2,"Core runs by March 2025; further runs to follow; focus on vegetation dynamics sensitivity"
-latePliocene,Fernanda Matos,Fernanda.Matos@awi.de,AWI,AWI-CM3,Core runs by March 2025; additional runs to follow
+latePliocene,Fernanda Matos,Fernanda.Matos@awi.de,AWI,AWI-ESM3,Core runs by March 2025; additional runs to follow
 latePliocene,Linda Sohl,les14@columbia.edu,NASA-GISS,ModelE2.1.2,Core runs by Dec 2025; extent of additional runs uncertain
 latePliocene,Linda Sohl,les14@columbia.edu,NASA-GISS,ROCKE-3D,To be run with both GISS radiation and SOCRATES schemes
 latePliocene,,,Utrecht,CESM1.05 (CCSM4-Utr),
@@ -51,11 +52,15 @@ eocene-5x,Ridgwell,,,cGENIE,
 eocene-5x,Coppo/Davini,,EC-Earth-Consortium,EC-Earth4,
 past2k,Myriam Khodri,,IPSL,,
 past2k,Qiong Zhang,Qiong.zhang@natgeo.su.se,Stockholm,EC-Earth4,
-past2k,,,NCAR-UCONN,CESM,"Bette mentioned someone would be interested to do, need to confirm who"
 past2k,Sebastian Wagner & Johann Jungclaus,,,ICON,
 past2k,Kei Yoshimura,,,MIROC6-iso,
 past2k,Liang Ning,,Nanjing,iCESM1.3,
 lig127k,Louise Sime & Xu Zhang,lsim@bas.ac.uk,BAS-UK,UKCM2
 lig127k,Louise Sime & Xu Zhang,lsim@bas.ac.uk,BAS-UK,HadGEM3-GC5-LL
+lig127k,Sophia Macarewich & Bette Otto-Bliesner,ottobli@ucar.edu,NCAR,CESM3,Model close to release in Jul 26
+lig127k,Christian Stepanek,Christian.Stepanek@awi.de,AWI,AWI-ESM3,
 midHolocene,Louise Sime & Xu Zhang,lsim@bas.ac.uk,BAS-UK,UKCM2
 midHolocene,Louise Sime & Xu Zhang,lsim@bas.ac.uk,BAS-UK,HadGEM3-GC5-LL
+midHolocene,Sophia Macarewich,macarew@ucar.edu,NCAR,CESM3,Model close to release in Jul 26
+midHolocene,Christian Stepanek,Christian.Stepanek@awi.de,AWI,AWI-ESM3,
+lgm,Jiang Zhu,jiang.zhu@ucar.edu,NCAR,CESM3,Model close to release in Jul 26

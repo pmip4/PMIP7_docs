@@ -8,7 +8,7 @@
 | [past2k](#past2k) | ☐ | ☐ | ☐ | ☐ |
 | [midHolocene](#Interglacials) | ☐ | ☐ | ☐ | ☐ |
 | [lig127k](#Interglacials) | ✅ | ☐ | ☐ | ☐ |
-| lgm | ☐ | ☐ | ☐ | ☐ |
+| [lgm](#lgm) | ☐ | ☐ | ☐ | ☐ |
 | [eocene-5x](#deepmip) | ✅ | ☐ | ☐ | ☐ |
 | MioMIP2 | ✅ | ☐ | ☐ | ☐ |
 | HighResPMIP | ☐ | ☐ | ☐ | ☐ |
@@ -27,10 +27,10 @@
 
 | # | Name | Email address | Institution | Model | Notes |
 |---|---|---|---|---|---|
-| 1 | Christian Stepanek | Christian.Stepanek@awi.de | AWI | AWI-CM3 | |
+| 1 | Christian Stepanek | Christian.Stepanek@awi.de | AWI | AWI-ESM3 | |
 | 2 | Christian Stepanek | Christian.Stepanek@awi.de | AWI | AWI-ESM2 | |
 | 3 | Sandeep Narayanasetti | sandeep.cat@tropmet.res.in | IITM | CCCR-IITM | |
-| 4 | Masatazu Yoshimori | masakazu@aori.u-tokyo.ac.jp | MIROC | MIROC7 & MIROC ESM | |
+| 4 | Masakazu Yoshimori & Takashi Obase | masakazu@aori.u-tokyo.ac.jp & tobase@jamstec.go.jp | MIROC | MIROC7 | Aiming to start in Jul 26 |
 | 5 | Qiong Zhang | Qiong.zhang@natgeo.su.se | Stockholm | EC-Earth4 | |
 | 6 | John Dunne & Lore Sentman | John.Dunne@noaa.gov & Lori.Sentman@noaa.gov | NOAA-GFDL | GFDL-ESM4 | |
 | 7 | Kohe Yoshida & Yasuto Watanabe| kyoshida@mri-jma.go.jp  &  ywatanabe@mri-jma.go.jp | MRI | MRI-ESM3 | |
@@ -40,6 +40,7 @@
 | 11 | Shih-Yu Lee | shihyu@gate.sinica.edu.tw | AS-RCEC | TaiESM | |
 | 12 | Kira Rehfeld | kira.rehfeld@uni-tuebingen.de | Tübingen | ICON | Simulation complete but hoping to re-run with final-final model |
 | 13 | Louise Sime & Xu Zhang | lsim@bas.ac.uk | BAS-UK | UKCM2 | |
+| 14 | Sophia Macarewich & Bette Otto-Bliesner | ottobli@ucar.edu | NCAR | CESM3 | Model close to release in Jul 26 |
 
 ## Interglacials
 
@@ -67,8 +68,12 @@ So, modelling groups could run all Tier 0 experiments based on only three simula
 |---|---|---|---|
 | lig127k | BAS-UK | UKCM2 | Louise Sime & Xu Zhang (lsim@bas.ac.uk) |
 | lig127k | BAS-UK | HadGEM3-GC5-LL | Louise Sime & Xu Zhang (lsim@bas.ac.uk) |
+| lig127k | NCAR | CESM3 | Sophia Macarewich & Bette Otto-Bliesner (ottobli@ucar.edu) — model close to release in Jul 26 |
+| lig127k | AWI | AWI-ESM3 | Christian Stepanek (Christian.Stepanek@awi.de) |
 | midHolocene | BAS-UK | UKCM2 | Louise Sime & Xu Zhang (lsim@bas.ac.uk) |
 | midHolocene | BAS-UK | HadGEM3-GC5-LL | Louise Sime & Xu Zhang (lsim@bas.ac.uk) |
+| midHolocene | NCAR | CESM3 | Sophia Macarewich (macarew@ucar.edu) — model close to release in Jul 26 |
+| midHolocene | AWI | AWI-ESM3 | Christian Stepanek (Christian.Stepanek@awi.de) |
 
 ## PlioMIP3
 
@@ -100,7 +105,7 @@ The table below is based on a spreadsheet provided by the PlioMIP3 coordinators.
 | 11 | NCAR-UCONN | CESM2 | Ran Feng (ran.feng@uconn.edu) | Target March/April 2025 |
 | 12 | NCAR-UCONN | CESM3 | Ran Feng (ran.feng@uconn.edu) | Will take most of 2025 |
 | 14 | AWI | AWI-ESM2 | Christian Stepanek (Christian.Stepanek@awi.de) | Core runs by March 2025; further runs to follow; focus on vegetation dynamics sensitivity |
-| 15 | AWI | AWI-CM3 | Fernanda Matos (Fernanda.Matos@awi.de) | Core runs by March 2025; additional runs to follow |
+| 15 | AWI | AWI-ESM3 | Fernanda Matos (Fernanda.Matos@awi.de) | Core runs by March 2025; additional runs to follow |
 | 16 | NASA-GISS | ModelE2.1.2 | Linda Sohl (les14@columbia.edu) | Core runs by Dec 2025; extent of additional runs uncertain |
 | 17 | NASA-GISS | ROCKE-3D | Linda Sohl (les14@columbia.edu) | To be run with both GISS radiation and SOCRATES schemes |
 | 18 | Utrecht | CESM1.05 (CCSM4-Utr) | | |
@@ -140,7 +145,12 @@ The preliminary list of groups interested in running the simulations is past2K s
 
 1. IPSL, Myriam Khodri
 2. EC-Earth4, Qiong Zhang (Qiong.zhang@natgeo.su.se)
-3. CESM (NCAR-UCONN), Bette mentioned someone would be interested to do, need to confirm who
-4. ICON, Sebastian Wagner & Johann Jungclaus
-5. MIROC6-iso, Kei Yoshimura
-6. iCESM1.3, Liang Ning (Nanjing)
+3. ICON, Sebastian Wagner & Johann Jungclaus
+4. MIROC6-iso, Kei Yoshimura
+5. iCESM1.3, Liang Ning (Nanjing)
+
+## lgm
+
+| Institution | Model | Contact | Notes |
+|---|---|---|---|
+| NCAR | CESM3 | Jiang Zhu (jiang.zhu@ucar.edu) | Model close to release in Jul 26 |
