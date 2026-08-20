@@ -2,10 +2,10 @@ Experiment,Name,Email,Institution,Model,Notes
 abrupt-127k,Christian Stepanek,Christian.Stepanek@awi.de,AWI,AWI-ESM3,
 abrupt-127k,Christian Stepanek,Christian.Stepanek@awi.de,AWI,AWI-ESM2,
 abrupt-127k,Sandeep Narayanasetti,sandeep.cat@tropmet.res.in,IITM,CCCR-IITM,Not started
-abrupt-127k,Masakazu Yoshimori & Takashi Obase,masakazu@aori.u-tokyo.ac.jp & tobase@jamstec.go.jp,MIROC,MIROC7, Aiming to start in Aug 26
+abrupt-127k,Masakazu Yoshimori & Takashi Obase,masakazu@aori.u-tokyo.ac.jp; tobase@jamstec.go.jp,MIROC,MIROC7, Aiming to start in Aug 26
 abrupt-127k,Qiong Zhang,Qiong.zhang@natgeo.su.se,Stockholm,EC-Earth4,T255
 abrupt-127k,John Dunne & Lore Sentman,John.Dunne@noaa.gov & Lori.Sentman@noaa.gov,NOAA-GFDL,GFDL-ESM4,
-abrupt-127k,Kohe Yoshida & Yasuto Watanabe,kyoshida@mri-jma.go.jp & ywatanabe@mri-jma.go.jp,MRI,MRI-ESM3,
+abrupt-127k,Kohe Yoshida & Yasuto Watanabe,kyoshida@mri-jma.go.jp; ywatanabe@mri-jma.go.jp,MRI,MRI-ESM3,
 abrupt-127k,Chris Jones,Chris.d.jones@bristol.ac.uk,Bristol,HadCM3-Bris,
 abrupt-127k,Evgeny Volodin,volodinev@gmail.com,INM,INMCM6,Completed
 abrupt-127k,Matt Pollock,matt.pollock.24@ucl.ac.uk,UCL,UKESM1.3,Not started
@@ -16,6 +16,7 @@ abrupt-127k,Sophia Macarewich & Bette Otto-Bliesner,ottobli@ucar.edu,NCAR,CESM3,
 abrupt-127k,Allegra LeGrande,allegra.n.legrande@nasa.gov,NASA,GISS-E2.1,Completed
 abrupt-127k,Allegra LeGrande,allegra.n.legrande@nasa.gov,NASA,GISS-E3.1,Not started
 abrupt-127k,Masa Kageyama,masa.kageyama@lsce.ipsl.fr,LSCE,IPSL-CM7,Not started
+abrupt-127k,Laurie Menviel,l.menviel@unsw.edu.au,UNSW,ACCESS-ESM1.6,
 latePliocene,Julia Tindall,earjcti@leeds.ac.uk,Leeds,HadCM3,Core runs completed Jan 2025; LP_pi_EAIS expected Apr/May 2025
 latePliocene,Z. Zhang,,Bergen,NorESM1-F,
 latePliocene,Z. Zhang,,Bergen,NorESM2,
@@ -32,7 +33,7 @@ latePliocene,Linda Sohl,les14@columbia.edu,NASA,ROCKE-3D,To be run with both GIS
 latePliocene,,,Utrecht,CESM1.05 (CCSM4-Utr),
 latePliocene,,,Toronto,CCSM4-UoT,
 latePliocene,A-C Sarr,,LSCE,IPSLCM6A-LR,Not certain
-latePliocene,Kohe Yoshida & Yasuto Watanabe,kyoshida@mri-jma.go.jp & ywatanabe@mri-jma.go.jp,MRI,MRI-CGCM 2.3,
+latePliocene,Kohe Yoshida & Yasuto Watanabe,kyoshida@mri-jma.go.jp; ywatanabe@mri-jma.go.jp,MRI,MRI-CGCM 2.3,
 eocene-5x,Zikun Ren,zikun.ren@bristol.ac.uk,Bristol,UKESM/HadGEM3,
 eocene-5x,Dan Lunt,dan.lunt@bristol.ac.uk,Bristol,HadCM3,
 eocene-5x,Jean-Baptiste Ladant,jean-baptiste.ladant@lsce.ipsl.fr,LSCE,IPSL-CM5A2,
@@ -56,21 +57,22 @@ past2k,Qiong Zhang,Qiong.zhang@natgeo.su.se,Stockholm,EC-Earth4,T159 not T255
 past2k,Sebastian Wagner & Johann Jungclaus,,,ICON,
 past2k,Kei Yoshimura,,,MIROC6-iso,
 past2k,Liang Ning,,Nanjing,iCESM1.3,
-past2k,Evgeny Volodin & Polina Morozova,volodinev@gmail.com & morozova_polina@mail.ru,INM,INMCM6,would prefer past1000
+past2k,Evgeny Volodin & Polina Morozova,volodinev@gmail.com; morozova_polina@mail.ru,INM,INMCM6,would prefer past1000
 lig127k,Louise Sime & Xu Zhang,lsim@bas.ac.uk,BAS-UK,UKCM2,
 lig127k,Louise Sime & Xu Zhang,lsim@bas.ac.uk,BAS-UK,HadGEM3-GC5-LL,
 lig127k,Sophia Macarewich & Bette Otto-Bliesner,ottobli@ucar.edu,NCAR,CESM3,Model close to release in Jul 26
 lig127k,Christian Stepanek,Christian.Stepanek@awi.de,AWI,AWI-ESM3,
-lig127k,Kira Rehfeld & Group,kira.rehfeld@uni-tuebingen.de,Tübingen,ICON,Also hoping for some sensitivity runs
+lig127k,Kira Rehfeld & Group,kira.rehfeld@uni-tuebingen.de,Tubingen,ICON,Also hoping for some sensitivity runs
 lig127k,Masa Kageyama,masa.kageyama@lsce.ipsl.fr,LSCE,IPSL-CM7,
 lig127k,Qiong Zhang,Qiong.zhang@natgeo.su.se,Stockholm,EC-Earth4,
-lig127k,Evgeny Volodin & Polina Morozova,volodinev@gmail.com & morozova_polina@mail.ru,INM,INMCM6,possibly
+lig127k,Evgeny Volodin & Polina Morozova,volodinev@gmail.com; morozova_polina@mail.ru,INM,INMCM6,possibly
 midHolocene,Louise Sime & Xu Zhang,lsim@bas.ac.uk,BAS-UK,UKCM2,
 midHolocene,Louise Sime & Xu Zhang,lsim@bas.ac.uk,BAS-UK,HadGEM3-GC5-LL,
 midHolocene,Sophia Macarewich,macarew@ucar.edu,NCAR,CESM3,Model close to release in Jul 26
 midHolocene,Christian Stepanek,Christian.Stepanek@awi.de,AWI,AWI-ESM3,
-midHolocene,Evgeny Volodin & Polina Morozova,volodinev@gmail.com & morozova_polina@mail.ru,INM,INMCM6,
+midHolocene,Evgeny Volodin & Polina Morozova,volodinev@gmail.com; morozova_polina@mail.ru,INM,INMCM6,
 lgm,Jiang Zhu,jiang.zhu@ucar.edu,NCAR,CESM3,Model close to release in Jul 26
 lgm,Masa Kageyama,masa.kageyama@lsce.ipsl.fr,LSCE,IPSL-CM7,fingers crossed
 lgm,Qiong Zhang,qiong.zhang@natgeo.su.se,Stockholm,EC-Earth4,T255
-lgm,Evgeny Volodin & Polina Morozova,volodinev@gmail.com & morozova_polina@mail.ru,INM,INMCM6,
+lgm,Evgeny Volodin & Polina Morozova,volodinev@gmail.com; morozova_polina@mail.ru,INM,INMCM6,
+lgm,Himadri Sinai,himadri.saini@unimelb.edu.au,UNSW,ACCESS-ESM1.5,
