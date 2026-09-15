@@ -1,5 +1,18 @@
 # Scientific Committee Meetings
 
+## Oct 2026
+
+Advisory Board: 4pm London, Thu 8 Oct
+Scientific Committee: 8am London, Fri 16 Oct
+
+### Agenda
+1. Provide summary of CMIP7 and IPCC status and their current timeline
+2. Provide update on PMIP conference (Rio, 30 Aug - 3 Sep 2027)
+3. Current status of abrupt-127k simulations and analysis
+4. Ask for input on PMIP timeline beyond IPCC deadline
+5. Reminder about WINGS and say summary of this meeting at it and will send out notes/actions.  
+
+
 ## May 2026
 
 ### Agenda
