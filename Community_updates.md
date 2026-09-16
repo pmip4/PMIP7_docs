@@ -1,3 +1,14 @@
+# ?? Sep 2026
+
+Items for inclusion:
+* CMIP7: data on ESGF; initial plots and summary data for download; Analysis workshop
+* PlioMIP3 Workshop 
+* Experiment contributions, so far
+* Submit IPCC reviews
+* PMIP Vision paper draft
+
+
+
 # 15 July 2026
 
 Dear PMIP community,
