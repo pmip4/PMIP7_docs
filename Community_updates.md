@@ -1,47 +1,24 @@
-# 30 Sep 2026
+# 1 Oct 2026
 
 Dear PMIP Community,
 
-Here is a short update on where things stand, plus details of the next PMIP-WINGS seminar.
+I want to tell you about some recent activity in both PMIP and wider CMIP that you might have missed. There is also an upcoming PMIP-WINGS seminar.
 
-**CMIP7 data and analysis**
-- CMIP7 data is starting to appear on the ESGF. You can search it at the [CEDA ESGF MetaGrid](https://metagrid-ceda.east.esgf.io/search). There is no PMIP data up on there yet. Guidance for users is [here](https://wcrp-cmip.github.io/cmip7-guidance/docs/CMIP7/Guidance_for_users/).
+As you'll hopefully know, we're aiming to complete the PMIP Fast Track simulation first, which is called 'abrupt-127k'. There are some simulations complete, and a publication plan is being put together. A status update of these and other simulations are on the [PMIP7_docs GitHub](https://github.com/pmip4/PMIP7_docs/blob/main/Experiment_Status_Contribs.md). If you are running a simulation that isn't listed, please let me know. Louise, Christian and me are organising the abrupt-127k rapid-analysis effort.
+
+PlioMIP3 hosted a workshop in Leeds (15-17 Sept). It was productive and there is a plan for a series of community papers. Information about that is mainly being distributed through the PlioMIP3 mailing list.
+
+From the CMIP and IPCC side:
+- CMIP7 data is starting to appear on the ESGF. You can search it at the [CEDA ESGF MetaGrid](https://metagrid-ceda.east.esgf.io/search). There is no PMIP data up on there yet.
 - The [Rapid Evaluation Framework (REF)](https://climate-ref.org/) provides automated evaluation of CMIP7 models against observations, with some initial plots and summary data available to view and download. See the [launch news](https://www.wcrp-cmip.org/ref-launch-at-cmip2026/).
-- [Registration is open for the CMIP7 Analysis Workshops](https://www.wcrp-cmip.org/registration-open-for-cmip7-analysis-workshops/). These are online efforts to get folks to collaborate on IPCC papers. You can [register here](https://airtable.com/appGEHtbRi0wy6T0x/pagmqu6Y1M1KbWn7W/form), and it'd be great to have some paleo-people involved. 
+- CMIP running some analysis workshops, which are online efforts to get folks to collaborate on IPCC papers. It'd be great to have some paleo-people involved, so [find out more and consider registering](https://www.wcrp-cmip.org/registration-open-for-cmip7-analysis-workshops/) 
+- Please submit review comments on the [IPCC's first order draft](https://apps.ipcc.ch/comments/ar7wg1/register.php?q=fod), and point out any paleo papers the authors may have overlooked. Papers must be submitted by 22 Feb 2027 to be eligible for inclusion.
 
-**PlioMIP3 workshop**
-[Add: two or three lines on the 15-17 Sept Leeds workshop: community papers agreed and next steps.]
-
-**Experiment contributions so far**
-The [current list is here](https://github.com/pmip4/PMIP7_docs/blob/main/Experiment_Status_Contribs.md). [Add: a line on how many groups have run or posted abrupt-127k.] If you are running a simulation and aren't listed, please let Christian, Louise or me know so that you're included in the rapid-analysis effort.
-
-**IPCC AR7 WG1 review**
-Please submit review comments on the [first order draft](https://apps.ipcc.ch/comments/ar7wg1/register.php?q=fod), and point out any paleo papers the authors may have overlooked. [Add: review deadline.] Papers must be submitted by March 2027 to be eligible for inclusion.
-
-**PMIP vision paper**
-A draft of the synthesis and outlook paper is now available. [Add: link and the feedback/writing help needed.] The outline is on [GitHub](https://github.com/pmip4/PMIP7-vision). If you can help, please email me (c.brierley@ucl.ac.uk).
-
-**PMIP-WINGS: 25th session, 15 October**
-I will host the 25th WINGS session on **15 October** at:
-- 8:00 am London
-- 9:00 am Central Europe
-- 1:00 am Boulder
-- 3:00 pm Beijing
-- 4:00 pm Tokyo
-
-Our two invited speakers both work on orbital-scale climate modelling:
+The 25th WINGS session on **15 October** at 07:00UTC (8am London, 9am Central Europe, 1am Boulder, 3pm Beijing, 4pm Tokyo). Our two invited speakers both work on orbital-scale climate modelling:
 - **Qin Wen** (Nanjing Normal University) will present recent work titled "Contrasting Marine and Terrestrial Responses of the South Asian Summer Monsoon System Caused by Hemispheric Insolation."
 - **Zhipeng Wu** (UCLouvain) will give a talk titled "Forcing Mechanisms of the Half-Precession Cycle in the Western Equatorial Pacific Temperature."
 
-Actions:
-* Set up and run PMIP simulations (ask if you need help)
-* Tell us about your experiment contributions
-* Review the IPCC draft and point out helpful paleoclimate insights
-* Register for the CMIP7 Analysis Workshops
-* Join the WINGS session on 15 October
-* Help with or comment on the vision paper
-
-Best wishes,
+Cheers,
 Chris
 
 
