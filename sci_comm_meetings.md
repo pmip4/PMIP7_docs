@@ -15,16 +15,16 @@ _Although actually the participants were blended for timing purposes_
 
 ### Summary of discussions
 * The first round of reviews of the IPCC have occurred. There is not as large a presence of PMIP directly, although this may be a legitimate consequence of the lack of new benchmarking efforts since AR7. Paleoclimate is mentioned in many places throughout the report, with many PMIP-affiliated citations.
-* CMIP7 is progressing for the IPCC. The ESFG is now up, although its data contents are relatively sparse. There is a nice data summary tool showing, for example, how much data is associated with the [abrupt-127k experiment](https://www.climate-resource.com/tools/esm-model/cmip7-availability/experiments/abrupt-127k).
+* CMIP7 is progressing for the IPCC. The ESGF is now up, although its data contents are relatively sparse. There is a nice data summary tool showing, for example, how much data is associated with the [abrupt-127k experiment](https://www.climate-resource.com/tools/esm-model/cmip7-availability/experiments/abrupt-127k).
 * Several modelling groups are only just freezing their CMIP7 models now (October '26). 
 * A collective effort is underway to create an initial paper on the `abrupt-127k` experiment. It is currently operating somewhat outside the ESGF system to allow more rapid evaluation. There are 10 (CMIP6+) models with simulations so far. There is confidence that this paper will be complete by the IPCC submission deadline.
-* There was a general feeling in the meeting that the bulk of PMIP will occur in the coming years - with a provisional datae for main PMIP7 results being 2029/30.
+* There was a general feeling in the meeting that the bulk of PMIP will occur in the coming years - with a provisional date for main PMIP7 results being 2029/30.
 * The Rio Conference will act as a catalyst and planning session for many of the experiments and analyses.
-* We should have an approximate timetable of subsequent meetings/activity ready for the Rio Conference
+* We should have an approximate timetable of subsequent meetings/activity ready for the Rio Conference.
 * How does PMIP relate to current progress about Machine Learning? There was no definitive answer here, but we need to make space for the discussion.
 
 ### Actions from meeting
-- [ ] What is the pitch for including the abrupt-127k paper in the IPCC report? and can you mention this to authors
+- [ ] What is the pitch for including the abrupt-127k paper in the IPCC report? Can you mention this to authors?
 - [ ] Set up a PMIP WINGS providing a first-look at the abrup-127k results and an update on this content: **Chris**
 - [ ] Add all PMIP experiment names to the CMIP7 vocabulary (currently only `abrupt-127k` and `eocene-5x` are there)
 - [ ] Progress on PMIP7 Vision paper: **Chris**
