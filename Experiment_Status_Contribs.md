@@ -27,27 +27,32 @@
 
 | # | Name | Email address | Institution | Model | Notes |
 |---|---|---|---|---|---|
-| 1 | Laurie Menviel | l.menviel@unsw.edu.au | UNSW | ACCESS-ESM1.6 | |
-| 2 | Christian Stepanek | Christian.Stepanek@awi.de | AWI | AWI-ESM2 | |
-| 3 | Christian Stepanek | Christian.Stepanek@awi.de | AWI | AWI-ESM3 | |
+| 1 | Laurie Menviel | l.menviel@unsw.edu.au | UNSW | ACCESS-ESM1.6 | Complete |
+| 2 | Christian Stepanek | Christian.Stepanek@awi.de | AWI | AWI-ESM2 | Complete|
+| 3 | Christian Stepanek | Christian.Stepanek@awi.de | AWI | AWI-ESM3 | Scheduled |
 | 4 | He Zhang | zhanghe@mail.iap.ac.cn | CAS | CAS-ESM | Aiming for Dec 2026 |
 | 5 | Weipeng Zheng | zhengwp@mail.iap.ac.cn | CAS | CAS-FGOALS | Aiming for Dec 2026 |
 | 6 | Sandeep Narayanasetti | sandeep.cat@tropmet.res.in | IITM | CCCR-IITM | Not started |
-| 7 | Sophia Macarewich & Bette Otto-Bliesner | ottobli@ucar.edu | NCAR | CESM3 | Model close to release in Jul 26 |
+| 7 | Sophia Macarewich & Bette Otto-Bliesner | ottobli@ucar.edu | NCAR | CESM3 | Scheduled for Jan 27 |
 | 8 | Qiong Zhang | Qiong.zhang@natgeo.su.se | Stockholm | EC-Earth4 | T255 |
-| 9 | John Dunne & Lori Sentman | John.Dunne@noaa.gov & Lori.Sentman@noaa.gov | NOAA-GFDL | GFDL-ESM4 | Pre-Dec 2026 |
+| 9 | John Dunne & Lori Sentman | John.Dunne@noaa.gov & Lori.Sentman@noaa.gov | NOAA-GFDL | GFDL-ESM4 | Complete |
 | 10 | Allegra LeGrande | allegra.n.legrande@nasa.gov | NASA | GISS-E2.1 | Completed |
 | 11 | Allegra LeGrande | allegra.n.legrande@nasa.gov | NASA | GISS-E3.1 | Not started |
-| 12 | Chris Jones | Chris.d.jones@bristol.ac.uk | Bristol | HadCM3-Bris | Not started |
-| 13 | Kira Rehfeld | kira.rehfeld@uni-tuebingen.de | Tubingen | ICON | Simulation complete but hoping to re-run with final-final model |
+| 12 | Chenmin Yu; Dan Lunt | qr23923@bristol.ac.uk;D.J.lunt@bristol.ac.uk | Bristol | HadCM3-Bris | Complete |
+| 13 | Tyler Houston; Kira Rehfeld | kira.rehfeld@uni-tuebingen.de; tyler.houston@uni-tuebingen.de | Tubingen | ICON | Simulation complete but hoping to re-run with final-final model |
 | 14 | Evgeny Volodin | volodinev@gmail.com | INM | INMCM6 | Completed |
-| 15 | Masa Kageyama | masa.kageyama@lsce.ipsl.fr | LSCE | IPSL-CM7 | Not started |
-| 16 | Masakazu Yoshimori & Takashi Obase | masakazu@aori.u-tokyo.ac.jp; tobase@jamstec.go.jp | MIROC | MIROC7 | Aiming to start in Aug 26 |
-| 17 | Kohe Yoshida & Yasuto Watanabe | kyoshida@mri-jma.go.jp; ywatanabe@mri-jma.go.jp | MRI | MRI-ESM3 | |
-| 18 | Jian Cao | jianc@nuist.edu.cn | NUIST | NESM4 | not sure if before Dec |
-| 19 | Shih-Yu Lee | shihyu@gate.sinica.edu.tw | AS-RCEC | TaiESM | |
-| 20 | Louise Sime & Xu Zhang | lsim@bas.ac.uk | BAS-UK | UKCM2 | |
-| 21 | Ed Blockley | matt.pollock.24@ucl.ac.uk | UKMO | UKESM1.3 | Underway |
+| 15 | Evgeny Volodin | volodinev@gmail.com | INM | INM-ARTS-ESM | Completed |
+| 16 | Masa Kageyama | masa.kageyama@lsce.ipsl.fr | LSCE | IPSL-CM7 | Not started |
+| 17 | Masakazu Yoshimori & Takashi Obase | masakazu@aori.u-tokyo.ac.jp; tobase@jamstec.go.jp | MIROC | MIROC7 | Complete |
+| 18 | Kohe Yoshida & Yasuto Watanabe | kyoshida@mri-jma.go.jp; ywatanabe@mri-jma.go.jp | MRI | MRI-ESM3 | Complete |
+| 19 | Zhongrui Xie | xiezhongrui26@stu.pku.edu.cn | Peking | NorESM1-F | not sure if before Dec |
+| 20 | Jerry Tjiputra | jetj@norceresearch.no | NCC | NorESM3 |  |
+| 21 | Jian Cao | jianc@nuist.edu.cn | NUIST | NESM4 | not sure if before Dec |
+| 22 | Shih-Yu Lee | shihyu@gate.sinica.edu.tw | AS-RCEC | TaiESM | Scheduled |
+| 23 | Louise Sime & Xu Zhang | lsim@bas.ac.uk | BAS-UK | UKCM2 | on ESGF |
+| 24 | Ed Blockley | matt.pollock.24@ucl.ac.uk | UKMO | UKESM1.3 | Complete |
+
+You can see how much data is on the ESGF by looking at the [CMIP7 Climate Resource Website](https://www.climate-resource.com/tools/esm-model/cmip7-availability/experiments/abrupt-127k).
 
 ## Interglacials
 
