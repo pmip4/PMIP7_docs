@@ -2,8 +2,8 @@
 
 | expt | protocol | running | uploaded | analysed | 
 |---|---|---|---|---|
-| [abrupt-127k](#abrupt-127k) | ✅ | ☐ | ☐ | ☐ |
-| [latePliocene](#pliomip3) | ✅ | ✅ | ☐ | ☐ |
+| [abrupt-127k](#abrupt-127k) | ✅ | ✅ | ✅ | ☐ |
+| [latePliocene](#pliomip3) | ✅ | ✅ | ✅ | ☐ |
 | [earlyPliocene](#pliomip3) | ✅ | ✅ | ☐ | ☐ |
 | [past2k](#past2k) | ☐ | ☐ | ☐ | ☐ |
 | [midHolocene](#Interglacials) | ☐ | ☐ | ☐ | ☐ |
@@ -177,7 +177,4 @@ The preliminary list of groups interested in running the simulations is past2K s
 
 ## MioMIP2
 
-| Institution | Model | Contact | Notes |
-|---|---|---|---|
-| CAS | CAS-FGOALS | Weipeng Zheng (zhengwp@mail.iap.ac.cn) | complete |
-| UNSW | GFDL | David Hutchinson (david.hutchinson@unsw.edu.au) | with MioMIP1 boundary conditions |
+MioMIP2 is focused on the Miocene climatic optimum. The protocol describing this experiment is [Burls et al, 2026, preprint](https://doi.org/10.5194/egusphere-2026-3595). There are two different paleogeographies and a series of sensitivity experiments.

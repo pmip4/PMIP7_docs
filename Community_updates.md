@@ -1,3 +1,24 @@
+# 24 Nov 2026
+
+Dear PMIP Community,
+
+Last week's PMIP-WINGS (19 Nov) was a community update on CMIP7 and our abrupt-127k Fast Track experiment, given by Louise Sime, Matt Pollock, Christian Stepanek and me. The recording will be posted on the [PMIP-WINGS YouTube playlist](https://www.youtube.com/playlist?list=PLKU3G-23arvmLlXJRLXy-jm_7FuAPCQ8U) shortly, but here are the main points:
+
+**CMIP7 is finally delivering data.** The focus until at least December is the Assessment Fast Track, especially the scenario experiments. Data goes onto the [ESGF](https://metagrid-ceda.east.esgf.io/search) and there is a handy [availability tracker](https://www.climate-resource.com/tools/esm-model/cmip7-availability/experiments/abrupt-127k), as well as the [REF dashboard](https://dashboard.climate-ref.org/) gives quick model evaluation.
+
+**PMIP's part of the CMIP7 data request.** The paleo variables (258 of them) sit within the Ocean & Sea Ice "opportunities" [(Fox-Kemper et al., 2026)](https://gmd.copernicus.org/articles/19/6043/2026/) and include common baseline variables through to bespoke stuff like water isotopes. You can see which models have produced which paleo variables on the [Climate Resource opportunity page](https://www.climate-resource.com/tools/esm-model/cmip7-availability/opportunities/51). Modelling centres decide what they output, so please do encourage yours to include them.
+
+**abrupt-127k is progressing.** We've been pleasantly surprised by the fact that 25 models have run or plan to run the experiment. Over half have finished, and most of the rest are scheduled for December. The international community paper is aimed at the IPCC deadline. Given the tight timeline it will focus on *what* the models show (Arctic climate vs proxies; sea ice amount, timing and location including last-ice areas; surface energy balance; ice growth, melt and transport), leaving most of the *why* for later work. So far only one model has abrupt-127k output on the ESGF, so Matt Pollock (matt.pollock.23@ucl.ac.uk) is collecting data directly. Analysis will start over the next couple of weeks with the models we have, adding others as they arrive rather than waiting for everything. A reminder that the 100-year run is designed for the Arctic; please do keep it running into a full lig127k if you can.
+
+**Beyond the Fast Track.** Pliocene analysis is underway, the Eocene protocols is published and the Miocene will be shortly, interglacial and past2k protocols are coming soon, and lgm/esm-lgm are developing. midHolocene and lig127k (as in PMIP4) will be registered with the CMIP7 controlled vocabularies, so they can then be uploaded to the ESGF. Further interglacial work will extend to MIS11 and MIS31 with sensitivity studies. Guidance is on the [PMIP experimental design page](https://pmip.lsce.ipsl.fr/protocols_and_data/experimental_design.html).
+
+**Looking ahead.** The PMIP7 outlook paper is underway at [github.com/pmip4/PMIP7-vision](https://github.com/pmip4/PMIP7-vision). Themes include multiple interglacials, Miocene and factorisation experiments, data assimilation (especially for past2k), renewed data-model evaluation approaches, AI in paleoclimate and testing emission-driven ESMs. Please contact me with additional thoughts. 
+
+And save the date: the [PMIP Conference](https://pastglobalchanges.org/calendar/139009) will be in Rio, Brazil, 30 Aug – 3 Sep 2027.
+
+Cheers,
+Chris
+
 # 1 Oct 2026
 
 Dear PMIP Community,
